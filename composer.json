@@ -1,0 +1,13 @@
+{
+    "name": "louise/twig",
+    "autoload": {
+        "psr-4": {
+            "Louise\\Twig\\": "src/"
+        },
+        "authors" :{
+            "name":"Louise",
+            "email":"louise.venuleth@gmail.com"
+        }
+    },
+    "require": {}
+}
